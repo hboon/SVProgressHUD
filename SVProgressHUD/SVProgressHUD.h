@@ -14,6 +14,8 @@
 
 #endif
 
+#define SV_APP_EXTENSIONS 1
+
 extern NSString * const SVProgressHUDDidReceiveTouchEventNotification;
 extern NSString * const SVProgressHUDDidTouchDownInsideNotification;
 extern NSString * const SVProgressHUDWillDisappearNotification;
